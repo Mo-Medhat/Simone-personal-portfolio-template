@@ -114,6 +114,9 @@ body{
     .section-title h2{
         font-size: 3.45rem;
     }
+    .section-title h2.testmonial{
+        font-size: 2.85rem;
+    }
 }
 /* End Global Ruls */
 /* Start Menu icon */
